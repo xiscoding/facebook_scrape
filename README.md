@@ -1,5 +1,9 @@
 # facebook_scrape
 
+## htmls
+- good place to save the html files you extract. 
+- facebook-xhenschel*: sample of the extracted data 
+
 ## scraper.py 
 - get list of fb friends from suggested friends list. 
 
